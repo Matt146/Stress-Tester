@@ -4,11 +4,12 @@ CAUTION: Run at your own risk!
 NOTE: This was created for educational purposes!
 
 # Usage
-CPU/RAM:
+  CPU/RAM:
+  --------
+    Run: python3 memeater.py
 
-python3 memeater.py
+  Diskspace:
+  --------
+    Compile: gcc main.c
 
-Diskspace:
-
-Compile: gcc main.c
-Run: ./a.out
+    Run: ./a.out
